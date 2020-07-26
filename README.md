@@ -9,7 +9,7 @@
 - 💼 I’m currently working on [Coopersytem](https://www.coopersystem.com.br);
 - 🔧   I am always looking to learn new technologies;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: lucasffm@hotmail.com;
+- 📫 How to reach me: lucasffm@gmail.com;
 
 <a href="https://github.com/lucasffm">
     <img width="50%" align="right" width="50%" alt="Lucasffm github stats" src="https://github-readme-stats.vercel.app/api?username=lucasffm&show_icons=true&hide_border=true" />
