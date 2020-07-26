@@ -6,21 +6,18 @@
 
 **Personal Infos:**
 
-<img width="55%" align="right" width="200px" alt="Github" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" />
-
 - 💼 I’m currently working on [Coopersytem](https://www.coopersystem.com.br);
 - 🔧   I am always looking to learn new technologies;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: lucasffm@hotmail.com;
 
-<br>
-**Languages and Tools:** 
-
-<p>
-  <a href="https://github.com/lucasffm">
+<a href="https://github.com/lucasffm">
     <img width="50%" align="right" width="50%" alt="Lucasffm github stats" src="https://github-readme-stats.vercel.app/api?username=lucasffm&show_icons=true&hide_border=true" />
   </a>
-  
+
+
+<br>
+**Languages and Tools:**   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
