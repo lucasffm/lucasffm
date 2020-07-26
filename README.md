@@ -15,9 +15,7 @@
     <img width="50%" align="right" width="50%" alt="Lucasffm github stats" src="https://github-readme-stats.vercel.app/api?username=lucasffm&show_icons=true&hide_border=true" />
   </a>
 
-
-<br>
-**Languages and Tools:**   
+**Languages and Tools:**
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
