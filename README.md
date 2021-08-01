@@ -13,8 +13,8 @@
 
 <div>
   <div>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasffm&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasffm&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasffm&theme=dracula"/>
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasffm&theme=dracula"/>
   </div>
 
 
