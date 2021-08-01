@@ -13,7 +13,6 @@
 
 <div>
   <div>
-    <a href="https://github.com/lucasffm">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasffm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasffm&layout=compact&langs_count=7&theme=dark"/>
   </div>
@@ -22,7 +21,8 @@
 
 <hr />
 
-**Languages and Tools:**
+**Languages and Tools**
+
 <div style="display: inline_block">
   <img align="center" style="margin: 5px" width="40" height="40" src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" />
   <img align="center" style="margin: 5px; border-radius: 5px" width="40" height="40" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" />
