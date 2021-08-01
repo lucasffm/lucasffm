@@ -11,21 +11,27 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: lucasffm@gmail.com;
 
-<a href="https://github.com/lucasffm">
-    <img width="50%" align="right" width="50%" alt="Lucasffm github stats" src="https://github-readme-stats.vercel.app/api?username=lucasffm&show_icons=true&hide_border=true" />
-  </a>
+<div>
+  <div>
+    <a href="https://github.com/lucasffm">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasffm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasffm&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+
+
+
+<hr />
 
 **Languages and Tools:**
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-
- <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" />
-<img width="10%" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/vue.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" />
-</p>
-
+<div style="display: inline_block">
+  <img align="center" style="margin: 5px" width="40" height="40" src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" />
+  <img align="center" style="margin: 5px; border-radius: 5px" width="40" height="40" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" />
+  <img align="center" style="margin: 5px" width="80" height="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" />
+  <img align="center" style="margin: 5px" width="80" height="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
+  <img align="center" style="margin: 5px" width="80" height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/vue.svg" />
+  <img align="center" style="margin: 5px" width="80" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
+  <img align="center" style="margin: 5px" width="80" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" />
+  </div>
+</div>
 
 ⭐️ From [lucasffm](https://github.com/lucasffm)
